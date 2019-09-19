@@ -6,7 +6,7 @@
   <display-name>Archetype Created Web Application</display-name>
   <servlet>
     <servlet-name>Ch3 Beer</servlet-name>
-    <servlet-class>edu.mum.cs.cs472.controller.BeerSelect</servlet-class>
+    <servlet-class>edu.mum.cs.cs.controller.BeerSelect</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>Ch3 Beer</servlet-name>

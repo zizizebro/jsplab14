@@ -5,9 +5,9 @@
 // (powered by Fernflower decompiler)
 //
 
-package edu.mum.cs.cs472.controller;
+package edu.mum.cs.cs.controller;
 
-import edu.mum.cs.cs472.model.BeerExpert;
+import edu.mum.cs.cs.model.BeerExpert;
 import java.io.IOException;
 import java.util.List;
 import javax.servlet.RequestDispatcher;

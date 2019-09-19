@@ -5,7 +5,7 @@
 // (powered by Fernflower decompiler)
 //
 
-package edu.mum.cs.cs472.model;
+package edu.mum.cs.cs.model;
 
 import java.util.ArrayList;
 import java.util.List;
